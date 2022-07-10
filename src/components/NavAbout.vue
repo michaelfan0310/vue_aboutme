@@ -13,10 +13,10 @@
             <a class="nav-link" href="https://michaelfan0310.github.io/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="https://www.michaelfan0310.ml/vue_aboutme/">About</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link" href="post.html">Post</a>
+            <a class="nav-link" href="https://polar-escarpment-84617.herokuapp.com/">Post</a>
           </li>
 
           <li class="nav-item">
